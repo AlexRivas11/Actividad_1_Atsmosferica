@@ -1,0 +1,7 @@
+Paso a paso para lograr el objetivo de la actividad.
+(ANTES DE REALIZAR LOS PASOS TENER INSTALADO Y CORRIENDO MONGODB Y NODEJS EN LA VERSIÓN 10 O SUPERIROR).
+1. Realizar eñ comando --> npm install 
+2. Para crear los archivos CSV y JSON actualizados la conexión a la base de datos y la inserción de esos datos es con el comando --> node index.
+3. Para la busqueda del atributo Ozono correr el comando --> node consulta1.js
+4. Para el top 3 del atributo ozono correr el comando --> node consulta2.js
+5. Para hacer la consulta total de la colección y generar la media del ozono de valencia es con el mando --> node consulta3.js
